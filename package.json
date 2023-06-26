@@ -1,0 +1,20 @@
+{
+  "name": "hangfireapp",
+  "version": "1.0.0",
+  "description": "getting started with Hangfire for scheduled background jobs",
+  "main": "index.js",
+  "scripts": {
+    "build": "dotnet build",
+    "run": "dotnet run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feras98nawafleh/hangfire.git"
+  },
+  "author": "feras98nawafleh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feras98nawafleh/hangfire/issues"
+  },
+  "homepage": "https://github.com/feras98nawafleh/hangfire#readme"
+}
